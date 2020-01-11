@@ -1,0 +1,18 @@
+footer {
+  background: blue;
+}
+.grey-text, .text-lighten-4, .grey-text, .text-lighten-3 {
+  color: gainsboro;
+  background: crimson ;
+}
+
+ li {
+  background: cyan;
+  color: black;
+}
+
+.example,
+.text-lighten-4 {
+  background: teal;
+  color: beige;
+}

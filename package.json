@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@shopify/react-utilities": "2.0.7",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-materialize": "3.5.8",
+    "react-router": "5.1.2",
+    "react-scripts": "3.0.1",
+    "shopify": "0.1.0",
+    "shopify-buy": "2.9.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
